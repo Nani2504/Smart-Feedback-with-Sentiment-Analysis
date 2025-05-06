@@ -1,0 +1,8 @@
+Flask==2.3.2
+Flask-SQLAlchemy==3.1.1
+matplotlib==3.8.4
+nltk==3.8.1
+numpy==1.26.4
+gunicorn==21.2.0
+python_version >= "3.9"
+google-generativeai==0.3.1
